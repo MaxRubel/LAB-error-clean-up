@@ -10,5 +10,4 @@ const startApp = () => {
   startSortingBtn();
   events(); // always load last
 };
-
 startApp();
